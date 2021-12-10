@@ -1,0 +1,8 @@
+name: FirstPlugin
+version: '1.0'
+main: io.github.o1af.firstplugin.firstplugin.FirstPlugin
+api-version: 1.17
+commands:
+  help:
+   description: Ask god for help
+   usage: /help
